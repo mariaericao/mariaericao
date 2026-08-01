@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou a Maria Erica! 👋
 
-<!--
-**mariaericao/mariaericao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Engenharia de Software**, apaixonada por tecnologia e focada no desenvolvimento **Front-end**, com o objetivo de evoluir para **Fullstack**. Gosto de transformar ideias em interfaces limpas, funcionais e centradas na experiência do usuário.
 
-Here are some ideas to get you started:
+### 🚀 No que estou trabalhando no momento:
+- Aprofundando meus conhecimentos em **JavaScript, React e Node.js**.
+- Construindo projetos práticos conectando front-end e back-end.
+- Explorando boas práticas de arquitetura de software e versionamento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Minhas Tecnologias e Ferramentas:
+- **Linguagens:** HTML5, CSS3, JavaScript (ES6+)
+- **Frameworks & Libs:** React, Tailwind CSS
+- **Ferramentas:** Git, GitHub, VS Code
+
+### 📬 Como me encontrar:
+- **LinkedIn:** [linkedin.com/in/maria-érica-oliveira-b899a8305](https://www.linkedin.com/in/maria-%C3%A9rica-oliveira-b899a8305)
+- **E-mail:** mariaericao@hotmail.com
