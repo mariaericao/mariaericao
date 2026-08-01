@@ -19,10 +19,10 @@
 ### 🌐 Vamos nos conectar?
 
 <p align="center">
-  <a href="https://linkedin.com/in/SEU_USUARIO" target="_blank">
+  <a href="https://www.linkedin.com/in/maria-%C3%A9rica-oliveira-b899a8305" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:SEU_EMAIL@gmail.com">
+  <a href="mailto:mariaericao@hotmail.com">
     <img src="https://img.shields.io/badge/E--mail-FF1493?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </p>
@@ -50,12 +50,12 @@
 ### 📊 Meus Números no GitHub
 
 <p align="center">
-  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=mariaericao&show_icons=true&theme=bear&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaericao&layout=compact&theme=bear" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mariaericao&show_icons=true&theme=bear&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaericao&layout=compact&theme=bear" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
-  <img height="145px" src="https://github-readme-streak-stats.herokuapp.com/?user=mariaericao&theme=bear" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariaericao&theme=bear" alt="GitHub Streak" />
 </p>
 
 <p align="center">
