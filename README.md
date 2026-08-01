@@ -2,7 +2,7 @@
 
 # Olá, eu sou a Maria Erica! 👋
 
-*“Transformando linhas de código em experiências digitais impactantes.”* 🚀
+
 
 Estudante de **Engenharia de Software**, apaixonada por tecnologia e focada no desenvolvimento **Front-end**, com o objetivo de evoluir para **Fullstack**. Gosto de transformar ideias em interfaces limpas, funcionais e centradas na experiência do usuário.
 
