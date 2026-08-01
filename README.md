@@ -1,6 +1,5 @@
 <div align="center">
   <h1>🎀 Olá, eu sou a Maria Erica! 🎀</h1>
-  <p><em>✨ Transformando linhas de código em experiências incríveis ✨</em></p>
 </div>
 
 <p align="center">
