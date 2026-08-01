@@ -3,7 +3,9 @@
   <p><em>✨ Transformando linhas de código em experiências incríveis ✨</em></p>
 </div>
 
-<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Bem-vinda(o)%20ao%20meu%20cantinho!&fontSize=22&fontColor=ffffff" width="100%"/>
+</p>
 
 ---
 
@@ -49,13 +51,14 @@
 ### 📊 Meus Números no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariaericao&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=mariaericao&show_icons=true&theme=bear&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaericao&layout=compact&theme=bear" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaericao&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+  <img height="145px" src="https://github-readme-streak-stats.herokuapp.com/?user=mariaericao&theme=bear" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mariaericao&color=ff69b4&style=for-the-badge" alt="Contador de Visitas" />
-</p> 
+</p>
