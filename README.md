@@ -17,7 +17,7 @@ Estudante de **Engenharia de Software**, apaixonada por tecnologia e focada no d
 
 ---
 
-### 🚀 No que estou trabalhando no momento:
+### 🚀 No  que estou trabalhando no momento:
 - Aprofundando meus conhecimentos em **JavaScript, React e Node.js**.
 - Construindo projetos práticos conectando front-end e back-end.
 - Explorando boas práticas de arquitetura de software e versionamento.
