@@ -1,6 +1,21 @@
+<div align="center">
+
 # Olá, eu sou a Maria Erica! 👋
 
+*“Transformando linhas de código em experiências digitais impactantes.”* 🚀
+
 Estudante de **Engenharia de Software**, apaixonada por tecnologia e focada no desenvolvimento **Front-end**, com o objetivo de evoluir para **Fullstack**. Gosto de transformar ideias em interfaces limpas, funcionais e centradas na experiência do usuário.
+
+---
+
+### 📬 Como me encontrar:
+
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![E-mail](https://shields.io)](mailto:mariaericao@hotmail.com)
+
+</div>
+
+---
 
 ### 🚀 No que estou trabalhando no momento:
 - Aprofundando meus conhecimentos em **JavaScript, React e Node.js**.
@@ -8,10 +23,22 @@ Estudante de **Engenharia de Software**, apaixonada por tecnologia e focada no d
 - Explorando boas práticas de arquitetura de software e versionamento.
 
 ### 🛠️ Minhas Tecnologias e Ferramentas:
-- **Linguagens:** HTML5, CSS3, JavaScript (ES6+)
-- **Frameworks & Libs:** React, Tailwind CSS
-- **Ferramentas:** Git, GitHub, VS Code
 
-### 📬 Como me encontrar:
-- **LinkedIn:** [linkedin.com/in/maria-érica-oliveira-b899a8305](https://www.linkedin.com/in/maria-%C3%A9rica-oliveira-b899a8305)
-- **E-mail:** mariaericao@hotmail.com
+| Categoria | Badges |
+| :--- | :--- |
+| **Linguagens** | ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) |
+| **Frameworks & Libs** | ![React](https://shields.io) ![TailwindCSS](https://shields.io) |
+| **Ferramentas** | ![Git](https://shields.io) ![GitHub](https://shields.io) ![VS Code](https://shields.io) |
+
+---
+
+### 📊 Minhas Estatísticas do GitHub:
+
+<div align="center">
+  <img height="180em" src="https://vercel.app" />
+  <img height="180em" src="https://vercel.app" />
+
+  <br><br>
+  
+  ![Contador de Visitas](https://glitch.me)
+</div>
