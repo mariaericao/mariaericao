@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Bem-vinda(o)%20ao%20meu%20cantinho!&fontSize=22&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Bem-vinda(o)%20ao%20meu%20cantinho!&fontSize=22&fontColor=CC0066" width="100%"/>
 </p>
 
 ---
@@ -11,7 +11,7 @@
 ### 👩‍💻 Sobre mim:
 
 <p align="center">
-  Sou estudante de <strong>Engenharia de Software</strong>, apaixonada por tecnologia e focada no desenvolvimento <strong>Front-end</strong>, com o grande objetivo de evoluir para <strong>Fullstack</strong>. Adoro criar interfaces limpas, funcionais e que priorizam uma ótima experiência para o usuário! 🌸
+  Estudante de <strong>Engenharia de Software</strong>, apaixonada por tecnologia e focada no desenvolvimento <strong>Front-end</strong>, com o objetivo de evoluir para <strong>Fullstack</strong>. Gosto de transformar ideias em interfaces limpas, funcionais e centradas na experiência do usuário. 🌸
 </p>
 
 ---
