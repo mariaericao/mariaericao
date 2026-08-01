@@ -3,9 +3,7 @@
   <p><em>✨ Transformando linhas de código em experiências incríveis ✨</em></p>
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=10&customColorList=ffb6c1,ffc0cb,ffe4e1&height=100&section=header&text=Bem-vinda(o)%20ao%20meu%20cantinho!&fontSize=20&fontColor=fff&fontAlignY=55" width="100%"/>
-</p>
+<br>
 
 ---
 
@@ -51,9 +49,11 @@
 ### 📊 Meus Números no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariaericao&show_icons=true&theme=bear&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaericao&layout=compact&theme=bear" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mariaericao&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaericao&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
