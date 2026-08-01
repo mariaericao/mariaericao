@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Bem-vinda(o)%20ao%20meu%20cantinho!&fontSize=22&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10&customColorList=ffb6c1,ffc0cb,ffe4e1&height=100&section=header&text=Bem-vinda(o)%20ao%20meu%20cantinho!&fontSize=20&fontColor=fff&fontAlignY=55" width="100%"/>
 </p>
 
 ---
@@ -51,8 +51,9 @@
 ### 📊 Meus Números no GitHub
 
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=mariaericao&show_icons=true&theme=bear&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaericao&layout=compact&theme=bear" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mariaericao&show_icons=true&theme=bear&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaericao&layout=compact&theme=bear" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
