@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Bem-vinda(o)%20ao%20meu%20cantinho!&fontSize=22&fontColor=#FFFFFF" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bem-vinda(o)%20ao%20meu%20cantinho!&fontSize=22&fontColor=#FFFFFF" width="100%" />
 </p>
 
 ---
