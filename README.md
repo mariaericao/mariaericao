@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Bem-vinda(o)%20ao%20meu%20cantinho!&fontSize=22&fontColor=#FFFFFF" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Bem-vinda(o)%20ao%20meu%20cantinho!&fontSize=22&fontColor=#FFFFFF" width="100%" />
 </p>
 
 ---
@@ -20,10 +20,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maria-%C3%A9rica-oliveira-b899a8305" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   <a href="mailto:mariaericao@hotmail.com">
-    <img src="https://img.shields.io/badge/E--mail-FF1493?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/E--mail-FF1493?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
 </p>
 
