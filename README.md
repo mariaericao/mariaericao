@@ -11,7 +11,7 @@
 ### 👩‍💻 Sobre mim:
 
 <p align="center">
-  Estudante de <strong>Engenharia de Software</strong>, apaixonada por tecnologia e focada no desenvolvimento <strong>Front-end</strong>, com o objetivo de evoluir para <strong>Fullstack</strong>. Gosto de transformar ideias em interfaces limpas, funcionais e centradas na experiência do usuário. 🌸
+  Estudante de <strong>Engenharia de Software</strong>, apaixonada por tecnologia e focada no desenvolvimento <strong>Front-end</strong>, com o objetivo de evoluir para <strong>Fullstack</strong>. Gosto de transformar ideias in interfaces limpas, funcionais e centradas na experiência do usuário. 🌸
 </p>
 
 ---
